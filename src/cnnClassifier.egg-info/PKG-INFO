@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/abhi-0104/Pneumonia-classification
+Author: abhi-0104
+Author-email: tiwariabhishek0104@gmail.com
+Project-URL: Bug Tracker, https://github.com/abhi-0104/Pneumonia-classification/issues
+License-File: LICENSE
+
+# Pneumonia-classification
